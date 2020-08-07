@@ -1,2 +1,2 @@
-# pennAWARE
- Study app. Adapted from AWARE Framework.
+# aware-client-ios-v2-master
+ purm app
